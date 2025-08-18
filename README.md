@@ -4,7 +4,6 @@ I'm Polina — a game developer passionate about crafting gameplay systems and t
 
 👾 Currently working on: [Help the Ducklings](https://github.com/Mulwe/help-the-ducklings)  
 🎮 You can try my games on Itch.io: [Dashboard](https://mulwe.itch.io/)  
-🤝 Collaborated on: [minishell](https://github.com/Mulwe/minishell) with [acunathink](https://github.com/acunathink)  
 ❤️ Love 2D/3D retro games and pixel art  
 🧠 Always learning, always building
 
