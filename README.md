@@ -12,7 +12,7 @@ I'm Polina — a game developer passionate about crafting gameplay systems and t
 ❤️ Love 2D/3D retro games and pixel art  
 🧠 Always learning, always building
 
-📫 Reach me at: polina.g.dev@gmail.com
-
-[LinkedIn] [linkedin] **/**
-[Reach me] [mail] **/**
+📫 Reach me at: [mail](polina.g.dev@gmail.com) **/**
+[LinkedIn](https://www.linkedin.com/in/polina-g-dev/) **/**
+ 
+ 
