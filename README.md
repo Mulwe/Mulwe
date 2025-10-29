@@ -5,8 +5,8 @@ I'm Polina — a game developer passionate about crafting gameplay systems and t
 👾 Currently working on:
 
 🎮 You can try my games on [Itch.io](https://mulwe.itch.io/) : 
-**  ▶️ [Help the Ducklings](https://github.com/Mulwe/help-the-ducklings)  
-**  ▶️ [Bagman](https://mulwe.itch.io/bagman)  
+*  ▶️ [Help the Ducklings](https://github.com/Mulwe/help-the-ducklings)  
+*  ▶️ [Bagman](https://mulwe.itch.io/bagman)  
 
 
 ❤️ Love 2D/3D retro games and pixel art  
