@@ -1,6 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
 I'm Polina — a game developer passionate about crafting gameplay systems and tools.
+---
 
 👾 Currently working on:
 
@@ -8,9 +9,6 @@ I'm Polina — a game developer passionate about crafting gameplay systems and t
 *  ▶️ [Help the Ducklings](https://github.com/Mulwe/help-the-ducklings)  
 *  ▶️ [Bagman](https://mulwe.itch.io/bagman)  
 
-
-❤️ Love 2D/3D retro games and pixel art  
-🧠 Always learning, always building
 
 📫 Reach me at: [mail](polina.g.dev@gmail.com)
 
