@@ -1,10 +1,8 @@
 # Hi there 👋
 
 I'm Polina — a game developer passionate about crafting gameplay systems and tools.
----
-👾 Currently working on:
 
----
+
 ## 🎮 My Games
 - **▶️ [Help the Ducklings](https://github.com/Mulwe/help-the-ducklings)**
 - **▶️ [Bagman](https://mulwe.itch.io/bagman)** 
@@ -21,7 +19,6 @@ Check out more on my [Itch.io profile](https://itch.io).
 **IDEs & Editors:** Visual Studio, VS Code  
 **Scripting / Tools:** Git, Bash scripting  
 **Other Skills:** Database design, web development basics, software architecture concepts
-
 
 ---
 
