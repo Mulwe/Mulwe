@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Polina — a game developer passionate about crafting gameplay systems and tools.
+I'm Polina, a game developer passionate about crafting gameplay systems and tools.
 
 
 ## 🎮 My Games
