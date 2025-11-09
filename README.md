@@ -24,8 +24,8 @@ Check out more on my [Itch.io profile](https://mulwe.itch.io/).
 
 ---
 
-📫 Reach me at: [mail](polina.g.dev@gmail.com)
-
-👔 [LinkedIn](https://www.linkedin.com/in/polina-g-dev/) **/**
-👑 [Itch.io](https://mulwe.itch.io/) **/**
+Reach me at: [📫e-mail](polina.g.dev@gmail.com)**/**
+👔 [LinkedIn ](https://www.linkedin.com/in/polina-g-dev/) **/**
+👑 [Itch.io ](https://mulwe.itch.io/) **/**
+🌐 [Website ](https://polinag.dev/) **/**
  
