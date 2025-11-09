@@ -4,9 +4,13 @@ I'm Polina, a game developer passionate about crafting gameplay systems and tool
 
 
 ## 🎮 My Games
-- **▶️ [Help the Ducklings](https://mulwe.itch.io/help-the-ducklings) [Code](https://github.com/Mulwe/help-the-ducklings)**
+- **▶️ [Help the Ducklings](https://mulwe.itch.io/help-the-ducklings) [Code ](https://github.com/Mulwe/help-the-ducklings)**
 - **▶️ [Bagman](https://mulwe.itch.io/bagman) [Code](https://github.com/Mulwe/Bagman-2D-demo)** 
 
+## 🎮 My Games
+|:-----|:----:|
+| [Help the Ducklings](https://mulwe.itch.io/help-the-ducklings) | [💻 Code](https://github.com/Mulwe/help-the-ducklings) |
+| [Bagman](https://mulwe.itch.io/bagman) | [💻 Code](https://github.com/Mulwe/Bagman-2D-demo) |
 Check out more on my [Itch.io profile](https://mulwe.itch.io/).
  
 
